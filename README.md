@@ -1,7 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 «Ох, рано встает охрана» м/ф "Бременские музыканты" 1 куплет
-![](https://github.com/user-attachments/assets/9c67e758-07cc-4b2c-a7b0-c70bd8b2f7c9)
+![](https://github.com/user-attachments/assets/e8e48f40-2c93-403b-bc45-5ed55b4989af)
 
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/idIQIBY-iSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -25,7 +25,7 @@
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 "Oh, the guards wake up early!" - "Oh, rano vstayot ohrana!"  ("The Bremen Town Musicians" -  "Bremenskie muzykanty") 1 part
-![](https://github.com/user-attachments/assets/9c67e758-07cc-4b2c-a7b0-c70bd8b2f7c9)
+![](https://github.com/user-attachments/assets/e8e48f40-2c93-403b-bc45-5ed55b4989af)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/E_QANMn_H9s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -46,5 +46,3 @@ Esli muha - muhu bej!
 Vzyat' eyo na mushku.
 <br><br>
 
-![](https://github.com/user-attachments/assets/e8e48f40-2c93-403b-bc45-5ed55b4989af)
-![](https://github.com/user-attachments/assets/766429d5-318c-4e05-a012-b9d58e909f8c)
