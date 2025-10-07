@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>ohrana</repo>
-  <version>v1.0.21</version>
+  <version>v1.0.22</version>
   <next number="1" owner="Fistachka" repo="ohrana2"/>
   <readme>
     <ru>035b44dab0c501af02f2ff2103ad7b044362e7f8e04617fde1b0eae8a0b849f7</ru>
@@ -184,13 +184,13 @@
     <tonalities>5</tonalities>
     <video name="13t.mp4" size="1662851" type="video/mp4" volume="0.5">2bf859ba4d26ec278b97d07c5984f509d23b43b41eab6bd12e10f7d42ecfb088</video>
     <notes>
-      <note number="1" values="1" ticks="168" durationTicks="34" ppq="96" velocity="0.862"/>
-      <note number="2" values="1" ticks="216" durationTicks="49" ppq="96" velocity="0.812"/>
-      <note number="3" values="85" ticks="263" durationTicks="33" ppq="96" velocity="0.852"/>
-      <note number="4" values="85" ticks="311" durationTicks="48" ppq="96" velocity="0.807"/>
-      <note number="5" values="1" ticks="361" durationTicks="30" ppq="96" velocity="0.837"/>
-      <note number="6" values="1" ticks="408" durationTicks="48" ppq="96" velocity="0.792"/>
-      <note number="7" values="4" ticks="457" durationTicks="94" ppq="96" velocity="0.882"/>
+      <note number="1" values="1" ticks="198" durationTicks="34" ppq="96" velocity="0.862"/>
+      <note number="2" values="1" ticks="246" durationTicks="49" ppq="96" velocity="0.812"/>
+      <note number="3" values="85" ticks="293" durationTicks="33" ppq="96" velocity="0.852"/>
+      <note number="4" values="85" ticks="341" durationTicks="48" ppq="96" velocity="0.807"/>
+      <note number="5" values="1" ticks="391" durationTicks="30" ppq="96" velocity="0.837"/>
+      <note number="6" values="1" ticks="438" durationTicks="48" ppq="96" velocity="0.792"/>
+      <note number="7" values="4" ticks="487" durationTicks="94" ppq="96" velocity="0.882"/>
     </notes>
   </exercise>
   <exercise number="14">
